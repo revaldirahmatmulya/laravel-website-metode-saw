@@ -1,0 +1,1 @@
+Project ini dikerjakan dengan menggunakan framework Laravel
